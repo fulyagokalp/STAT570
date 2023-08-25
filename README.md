@@ -12,7 +12,7 @@ STAT570 is a graduate-level course focusing on data handling and visualization t
 - [Course Syllabus](syllabus.md)
 - [Lecture Slides](lectures/)
 - [Assignments](assignments/)
-- [Resources](resources/)
+- [Resources](Resources/)
 
 ## Getting Started
 
